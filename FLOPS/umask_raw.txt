@@ -1,0 +1,16 @@
+umask of the FLOP hardware counters
+0x5301c7
+0x5302c7
+0x5304c7
+0x5308c7
+0x5310c7
+0x5320c7
+0x5340c7
+0x5380c7
+
+-e r5301c7 -e r5302c7 -e r5304c7 -e r5308c7 -e r5310c7 -e r5320c7 -e r5340c7 -e r5380c7
+
+
+
+
+
